@@ -2,9 +2,9 @@
 
 
 ### Integrantes 
-    Riam Martinelli
-    Diogo Lupi
-    Hézio Silva
+   [Riam Martinelli](https://github.com/richboyyy)
+    [Diogo Lupi](https://github.com/diogolupi)
+    [Hézio Silva](https://github.com/HezioS1lv4)
 
 
 ### Atividades Desenvolvidas
